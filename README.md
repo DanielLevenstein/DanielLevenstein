@@ -2,8 +2,6 @@
 
 I am a software developer who has been studying machine learning and AI since 2025. I have 6 years of experience working in an AWS environment and I have 3 years of experience in data validation and machine learning.
 
----
-
 ## 🛠 Deployment Experience
 
 - 6+ years of software experience
@@ -12,9 +10,27 @@ I am a software developer who has been studying machine learning and AI since 20
 - HuggingFace Models: https://huggingface.co/DanielLevenstein
 - Kaggle Data Notebooks: https://www.kaggle.com/daniellevenstein
 
----
-
 ## Featured Projects:
+
+### 🪖 Helmet Detection Model With Streamlit Demo
+
+GitHub: 🔗 https://github.com/DanielLevenstein/HelmNet_ImageProcessing_UT_ML_Project6
+Live Demo: 🔗 https://huggingface.co/spaces/DanielLevenstein/Helmet_Image_Classification
+
+Overview:
+
+HelmNet is a convolutional neural network designed to classify whether a construction helmet is present in an image. The model was trained using TensorFlow/Keras and deployed through a Streamlit application that allows users to upload images and receive real-time predictions. The project demonstrates an end-to-end machine learning workflow including dataset preparation, model training, evaluation, and cloud deployment.
+
+The deployed demo runs on Hugging Face Spaces and provides an interactive interface for testing the model with arbitrary images.
+
+#### Key Contributions:
+
+* Developed a convolutional neural network for binary helmet classification using TensorFlow and Keras.
+* Implemented an image preprocessing pipeline including resizing, normalization, and array conversion to prepare images for inference.
+* Built an interactive Streamlit web application allowing users to upload images and view prediction results.
+* Deployed the application to Hugging Face Spaces, integrating model hosting with a live demo interface.
+* Evaluated the model using random samples from the dataset and analyzed model limitations and dataset bias.
+* Documented the project workflow, model architecture, and deployment process in a reproducible repository.
 
 ---
 
