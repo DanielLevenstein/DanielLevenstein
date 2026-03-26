@@ -12,18 +12,24 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Featured Projects:
 
-### 🪖 Helmet Detection Model With Streamlit Demo
+### 🪖 Helmet Detection Model - Data-Centric ML Case Study
 
-GitHub: 🔗 https://github.com/DanielLevenstein/HelmNet_ImageProcessing_UT_ML_Project6<br>
 Live Demo: 🔗 https://huggingface.co/spaces/DanielLevenstein/Helmet_Image_Classification
 
-Overview:
+**Overview:**
 
-HelmNet is a convolutional neural network designed to classify whether a construction helmet is present in an image. The model was trained using TensorFlow/Keras and deployed through a Streamlit application that allows users to upload images and receive real-time predictions. The project demonstrates an end-to-end machine learning workflow including dataset preparation, model training, evaluation, and cloud deployment.
+Built a computer vision model to detect construction helmets using TensorFlow/Keras, deployed via a Streamlit app on Hugging Face Spaces for real-time image predictions. Evolved the project beyond initial classification by improving dataset quality through multi-source aggregation and standardization, reducing false positives with stricter thresholds, and beginning the transition toward object detection using bounding boxes.
 
-The deployed demo runs on Hugging Face Spaces and provides an interactive interface for testing the model with arbitrary images.
+**Key Contributions:**
 
-Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace Spaces
+Built and deployed a CNN-based image classification model using TensorFlow/Keras
+Aggregated and standardized multi-source datasets to improve data consistency
+Identified data quality as a primary performance bottleneck and adjusted approach accordingly
+Reduced false positives through prediction threshold tuning
+Diagnosed failure cases (e.g., no-person images, background noise) to guide improvements
+Designed next iteration toward object detection (bounding boxes / YOLO)
+
+Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
 ---
 
