@@ -25,9 +25,8 @@ Built a computer vision model to detect construction helmets using TensorFlow/Ke
 - Built and deployed a CNN-based image classification model using TensorFlow/Keras
 - Identified data quality as a primary performance bottleneck and adjusted approach accordingly
 - Reduced false positives through prediction threshold tuning
-- Diagnosed failure cases (e.g., no-person images, background noise) to guide improvements
 - Designed next iteration toward object detection (bounding boxes / YOLO) (In Progress)
-- Aggregated and standardized multi-source datasets to improve data consistency (In Progress)
+ 
 Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
 ---
