@@ -27,7 +27,7 @@ Developed an image classification pipeline for helmet detection using a CNN trai
 - Built four CNN-based image classification models using four different training datasets.
 - Evaluated models based on a holdout dataset consisted of equal numbers of samples from Dataset2, and Dataset3.
 - Improved accuracy of a classification model from 77% to 94%, and calculated precision, recal, and f1 metrics for each model.
-- Designed next iteration toward object detection (bounding boxes / YOLO) (In Progress)
+- Identified categories of images model struggles with for further fine-tuning. 
 
 Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
@@ -38,14 +38,13 @@ Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 GitHub: 🔗 https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1
 
 **Overview:**
-Analyzed 1,898-row food delivery dataset to evaluate cuisine performance and customer loyalty metrics.
+Developed discount program for food delivery app, which reaches up to 12% of the population while minimizing cost. 
 
 **Key Features:**
 
-- Cleaned dataset and imputed missing ratings using dataset mean
-- Identified top-rated restaurants by cuisine
-- Designed and evaluated discount strategy metrics
-- Calculated discount cost vs. total customer reach
+- Cleaned dataset and imputed missing ratings.
+- Identified top-rated restaurants by cuisine.
+- Calculated discount cost vs. total customer reach.
 
 ![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
 
