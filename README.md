@@ -16,7 +16,7 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ### 🪖 Helmet Classification Pipeline (CNN, Training Data Curation)
 
-Live Demo: 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)
+Live Demo: 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
 Training Notebooks: 🔗 [Helmet CNN Training Notebooks](https://github.com/DanielLevenstein/Helmet_CNN_Model_Training_Notebooks)
 
 **Overview:**
@@ -55,7 +55,7 @@ Developed discount program for food delivery app, which reaches up to 12% of the
 ### 💪 Stress vs Physical Activity – Kaggle Data Analysis
 
 GitHub: 🔗 https://github.com/DanielLevenstein/stress_vs_physical_activity_data_exploration<br>
-Kaggle: 🔗 https://www.kaggle.com/daniellevenstein<br>
+Kaggle: 🔗 https://www.kaggle.com/code/daniellevenstein/stress-vs-physical-activity-correlation
 
 **Overview:**
 Analyzed relationships between stress levels and physical activity using real-world survey data.
