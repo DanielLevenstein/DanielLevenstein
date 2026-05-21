@@ -2,25 +2,26 @@
 
 Software engineer with 6+ years of experience working in AWS environments and data systems. Recently focused on machine learning and data analysis projects, including clustering, and business analytics.
 
-## 🛠 Deployment Experience
+🔗 [Deployed Models](https://huggingface.co/DanielLevenstein)
+🔗 [Kaggle Notebooks](https://www.kaggle.com/daniellevenstein)
+🔗 [GitHub Projects](https://github.com/DanielLevenstein/)
 
-- 6+ years of AWS experience
-- Certified AWS Cloud Practitioner (2025)
-- Industry experience with data validation at FINRA
-- HuggingFace Models: 🔗 https://huggingface.co/DanielLevenstein
-- Kaggle Data Notebooks: 🔗 https://www.kaggle.com/daniellevenstein
-
----
 ## Professional Work:
-- Data reprocessing pipeline (FINRA) — Developed Java/Scala scripts to migrate and normalize legacy financial records into updated schema formats for downstream validation workflows.
-- AWS monitoring framework (b.well) — Built Lambda-based system to track application uptime and system health signals. 
+
+- Developed Java/Scala scripts to migrate and normalize legacy financial records into updated schema formats for downstream validation workflows. (FINRA)
+- Built a Lambda-based system to track application uptime and system health signals. (b.well)
+
+## Certifications:
+
+- Certified AWS Cloud Practitioner (2025)
+- Post-Graduate Certificate in Artificial Intelligence & Machine Learning (2026)
 
 ## Featured Projects:
 
 ### 🪖 Helmet Classification Pipeline (CNN, Training Data Curation)
 
-Live Demo: 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
-Training Notebooks: 🔗 [Helmet CNN Training Notebooks](https://github.com/DanielLevenstein/Helmet_CNN_Model_Training_Notebooks)
+🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
+🔗 [Helmet CNN Training Notebooks](https://github.com/DanielLevenstein/Helmet_CNN_Model_Training_Notebooks)
 
 **Overview:**
 Developed an image classification pipeline for helmet detection using a CNN trained on standardized 100x100 image inputs. Build a data curation workflow to transform raw annotation images into standardized size and remove samples with too low a resolution to be useful.
@@ -30,7 +31,7 @@ Developed an image classification pipeline for helmet detection using a CNN trai
 - Built four CNN-based image classification models using four different training datasets.
 - Evaluated models based on a holdout dataset consisted of equal numbers of samples from Dataset2, and Dataset3.
 - Improved accuracy of a classification model from 77% to 94%, and calculated precision, recal, and f1 metrics for each model.
-- Identified categories of images model struggles with for further fine-tuning. 
+- Identified categories of images model struggles with for further fine-tuning.
 
 Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
@@ -38,10 +39,10 @@ Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 
 ### 🍕 FoodHub – Delivery Data Analysis
 
-GitHub: 🔗 https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1
+🔗 [GitHub: FoodHub Data Analysis](https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1)
 
 **Overview:**
-Overview: Developed discount program for food delivery app, which reaches up to 12% of the population under model conditions.
+Developed discount program for a food delivery app, which reaches up to 12% of the population under model conditions.
 
 **Key Features:**
 
@@ -55,10 +56,9 @@ Overview: Developed discount program for food delivery app, which reaches up to 
 
 ---
 
-### 💪 Stress vs Physical Activity – Kaggle Data Analysis
+### 💪 Stress vs. Physical Activity – Kaggle Data Analysis
 
-GitHub: 🔗 https://github.com/DanielLevenstein/stress_vs_physical_activity_data_exploration<br>
-Kaggle: 🔗 https://www.kaggle.com/code/daniellevenstein/stress-vs-physical-activity-correlation
+🔗 [Kaggle: Stress vs Physical Activity Correlation](https://www.kaggle.com/code/daniellevenstein/stress-vs-physical-activity-correlation)
 
 **Overview:**
 Analyzed relationships between stress levels and physical activity using real-world survey data.
@@ -74,8 +74,7 @@ Analyzed relationships between stress levels and physical activity using real-wo
 
 *Figure: K-means clustering reveals distinct population-level groups based on total activity and stress.*
 
----
-
 ## 📫 Contact
 
+Phone: 512-885-5925
 LinkedIn: https://www.linkedin.com/in/daniel-aaron-levenstein/
