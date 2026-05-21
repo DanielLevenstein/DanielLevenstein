@@ -6,11 +6,14 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 - 6+ years of AWS experience
 - Certified AWS Cloud Practitioner (2025)
-- Industry experience with data validation at Finra
+- Industry experience with data validation at FINRA
 - HuggingFace Models: 🔗 https://huggingface.co/DanielLevenstein
 - Kaggle Data Notebooks: 🔗 https://www.kaggle.com/daniellevenstein
 
 ---
+## Professional Work:
+- Data reprocessing pipeline (FINRA) — Developed Java/Scala scripts to migrate and normalize legacy financial records into updated schema formats for downstream validation workflows.
+- AWS monitoring framework (b.well) — Built Lambda-based system to track application uptime and system health signals. 
 
 ## Featured Projects:
 
@@ -38,7 +41,7 @@ Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
 GitHub: 🔗 https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1
 
 **Overview:**
-Developed discount program for food delivery app, which reaches up to 12% of the population while minimizing cost. 
+Overview: Developed discount program for food delivery app, which reaches up to 12% of the population under model conditions.
 
 **Key Features:**
 
