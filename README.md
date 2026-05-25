@@ -18,6 +18,22 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Featured Projects:
 
+### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
+🔗 [GitHub Repository] (https://github.com/DanielLevenstein/aws-documentation-rag)
+
+**Overview:**
+Developed a retrieval-augmented generation (RAG) application for querying AWS documentation. Built a pipeline for crawling AWS documentation pages, preprocessing and storing data in a vector database, and generating technical responses using a language model through a Streamlit interface.
+
+**Key Features:**
+
+- Developed a web crawler for ingesting AWS documentation pages.
+- Implemented vector-based semantic retrieval for documentation search workflows.
+- Integrated a language model for context-aware technical question answering.
+- Built a Streamlit frontend for interactive querying and response generation.
+- Containerized the application using Docker for local deployment and testing.
+
+Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
+
 ### 🪖 Helmet Classification Pipeline (CNN, Training Data Curation)
 
 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
