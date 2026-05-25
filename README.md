@@ -19,7 +19,8 @@ Software engineer with 6+ years of experience working in AWS environments and da
 ## Featured Projects:
 
 ### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
-🔗 [GitHub Repository] (https://github.com/DanielLevenstein/aws-documentation-rag)
+
+🔗 [GitHub: Aws-Documentation-Rag](https://github.com/DanielLevenstein/aws-documentation-rag)
 
 **Overview:**
 Developed a retrieval-augmented generation (RAG) application for querying AWS documentation. Built a pipeline for crawling AWS documentation pages, preprocessing and storing data in a vector database, and generating technical responses using a language model through a Streamlit interface.
