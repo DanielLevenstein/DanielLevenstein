@@ -34,6 +34,8 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 
 Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
 
+---
+
 ### 🪖 Helmet Classification Pipeline (CNN, Training Data Curation)
 
 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
