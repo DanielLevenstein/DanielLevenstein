@@ -27,6 +27,7 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 **Key Features:**
 
 - Developed a web crawler for ingesting AWS documentation pages.
+- Kept track of feature downloads and crawl depth to prevent redownloading files repeatedly.
 - Implemented vector-based semantic retrieval for documentation search workflows.
 - Integrated a language model for context-aware technical question answering.
 - Built a Streamlit frontend for interactive querying and response generation.
