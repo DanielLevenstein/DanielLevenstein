@@ -4,7 +4,6 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 🔗 [Deployed Models](https://huggingface.co/DanielLevenstein)
 🔗 [Kaggle Notebooks](https://www.kaggle.com/daniellevenstein)
-🔗 [GitHub Projects](https://github.com/DanielLevenstein/)
 
 ## Professional Work:
 
