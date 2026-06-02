@@ -13,8 +13,8 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Certifications:
 
-- Certified AWS Cloud Practitioner (2025)
-- Post-Graduate Certificate in Artificial Intelligence & Machine Learning (2026)
+- Certified AWS Cloud Practitioner (AWS, 2025)
+- Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
 
 ## Featured Projects:
 
