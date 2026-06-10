@@ -28,7 +28,7 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Generated self-authored AWS exam-style training, holdout, and sample question datasets.
 - Designed a combined JSON artifact format that stores questions, original multiple-choice provenance, correct answers, wrong answers, and partial-credit examples together.
 - Trained a local answer classifier to evaluate full-answer correctness with release metrics for accuracy, precision, recall, and confusion matrix results.
-- Created a partial-credit regression model using continuous answer ratings and mean squared error evaluation.
+- Created a partial-credit regression model using continuous answer ratings and mean-squared error evaluation.
 - Added validation tests for classifier behavior, low-credit answer rejection, memory overhead, generated artifacts, and model performance.
 - Containerized the application with Docker for local deployment and Render-ready hosting.
 
