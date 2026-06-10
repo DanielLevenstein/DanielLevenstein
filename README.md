@@ -16,6 +16,7 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
 
 ## Featured Projects:
+
 🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)
 🔗 GitHub: [AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)
 
@@ -33,6 +34,11 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 **Tools & Technologies:** Python, Streamlit, Docker, Machine Learning, Classification Models, Regression Models, JSON Data Pipelines, Automated Testing, AWS Certification Content
 
+![AWS Certification Coach](charts/aws-certification-coach.png)
+
+*Figure: The coach scores a freeform Amazon Kinesis answer and displays detailed feedback alongside the source multiple-choice question.*
+
+---
 
 ### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
 
@@ -51,7 +57,10 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 - Containerized the application using Docker for local deployment and testing.
 
 Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
+
 ![AWS Documentation Rag](charts/aws-documentation-rag.png)
+
+*Figure: The RAG chatbot answers an Amazon S3 question using context retrieved from AWS documentation.*
 
 ---
 
