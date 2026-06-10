@@ -51,6 +51,7 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 - Containerized the application using Docker for local deployment and testing.
 
 Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
+![AWS Documentation Rag](charts/aws-documentation-rag.png)
 
 ---
 
