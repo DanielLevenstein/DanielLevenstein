@@ -16,6 +16,23 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
 
 ## Featured Projects:
+🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)
+🔗 GitHub: [AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)
+
+**Overview:** Developed an AI-powered study application for AWS certification practice. The app presents freeform AWS exam-style questions, evaluates learner answers with a trained local classifier, and returns structured coaching feedback with score, missing concepts, detailed answer guidance, and original multiple-choice provenance.
+
+**Key Features:**
+
+- Built a Streamlit study interface for answering AWS certification questions in freeform text.
+- Generated self-authored AWS exam-style training, holdout, and sample question datasets.
+- Designed a combined JSON artifact format that stores questions, original multiple-choice provenance, correct answers, wrong answers, and partial-credit examples together.
+- Trained a local answer classifier to evaluate full-answer correctness with release metrics for accuracy, precision, recall, and confusion matrix results.
+- Created a partial-credit regression model using continuous answer ratings and mean squared error evaluation.
+- Added validation tests for classifier behavior, low-credit answer rejection, memory overhead, generated artifacts, and model performance.
+- Containerized the application with Docker for local deployment and Render-ready hosting.
+
+**Tools & Technologies:** Python, Streamlit, Docker, Machine Learning, Classification Models, Regression Models, JSON Data Pipelines, Automated Testing, AWS Certification Content
+
 
 ### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
 
