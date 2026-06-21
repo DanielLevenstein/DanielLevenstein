@@ -18,8 +18,8 @@ Software engineer with 6+ years of experience working in AWS environments and da
 ## Featured Projects:
 
 🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
-🔗 GitHub: [AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
-🔗 [Live Demo](https://aws-certification-coach-latest.onrender.com/)
+🔗 GitHub: [DaielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
+🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)
 
 **Overview:** Developed an AI-powered study application for AWS certification practice. The app presents freeform AWS exam-style questions, evaluates learner answers with a trained local classifier, and returns structured coaching feedback with score, missing concepts, detailed answer guidance, and original multiple-choice provenance.
 
