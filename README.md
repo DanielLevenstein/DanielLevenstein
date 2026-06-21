@@ -17,8 +17,9 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Featured Projects:
 
-🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)
-🔗 GitHub: [AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)
+🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
+🔗 GitHub: [AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
+🔗 [Live Demo](https://aws-certification-coach-latest.onrender.com/)
 
 **Overview:** Developed an AI-powered study application for AWS certification practice. The app presents freeform AWS exam-style questions, evaluates learner answers with a trained local classifier, and returns structured coaching feedback with score, missing concepts, detailed answer guidance, and original multiple-choice provenance.
 
@@ -33,10 +34,6 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Containerized the application with Docker for local deployment and Render-ready hosting.
 
 **Tools & Technologies:** Python, Streamlit, Docker, Machine Learning, Classification Models, Regression Models, JSON Data Pipelines, Automated Testing, AWS Certification Content
-
-![AWS Certification Coach](charts/aws-certification-coach.png)
-
-*Figure: The coach scores a freeform Amazon Kinesis answer and displays detailed feedback alongside the source multiple-choice question.*
 
 ---
 
@@ -57,10 +54,6 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 - Containerized the application using Docker for local deployment and testing.
 
 Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
-
-![AWS Documentation Rag](charts/aws-documentation-rag.png)
-
-*Figure: The RAG chatbot answers an Amazon S3 question using context retrieved from AWS documentation.*
 
 ---
 
