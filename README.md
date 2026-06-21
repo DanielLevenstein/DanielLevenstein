@@ -16,6 +16,8 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
 
 ## Featured Projects:
+[Featured_Projects](charts/Featured_Projects.png)
+*Figure: Shows an image of my AWS Rag and AWS Certification coach project side by side.*
 
 🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
 🔗 GitHub: [DaielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
