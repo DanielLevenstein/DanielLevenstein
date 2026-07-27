@@ -16,10 +16,34 @@ Software engineer with 6+ years of experience working in AWS environments and da
 - Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
 
 ## Featured Projects:
+
+![Character_Rewrite](charts/Character_Rewrite.png)
+*Figure: Shows the original backstory of a character with a cleaned-up version.*
+
 ![Featured_Projects](charts/Featured_Projects.png)
 *Figure: Shows an image of my AWS Rag and AWS Certification coach project side by side.*
 
 ## Detailed Information:
+
+🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)
+🔗 GitHub: [DanielLevenstein/AWS-Certification-Coach]()
+**Overview:**
+My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates graphical character connection graphs for the characters and places within the campaign.
+
+The app features a UI for adding session notes for your campaign which can be written withing the app or imported from txt or markdown files.
+
+**Key Features:**
+
+- Use a local language model to clean up character summaries and backstories.
+- Import session notes from external data sources extracting heading and date information.
+- Generate a knowledge graph from multiple data import sources and display information to users in clean readable format.
+
+**Tools & Technologies: Python, Streamlit, LangGraph, GraphViz, Machine Learning**
+![Character_View](charts/Party_View.png)
+*Figure: Displays generated knowledge graph of main character in test campaign.*
+
+---
+
 🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
 🔗 GitHub: [DaielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
 🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)
