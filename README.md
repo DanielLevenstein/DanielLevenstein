@@ -25,8 +25,8 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Detailed Information:
 
-🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)
-🔗 GitHub: [DanielLevenstein/AWS-Certification-Coach]()
+🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)<br>
+🔗 GitHub: [Campaign_Knowledge_Graph](https://github.com/DanielLevenstein/Campaign_Knowledge_Graph)<br>
 **Overview:**
 My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates graphical character connection graphs for the characters and places within the campaign.
 
