@@ -27,6 +27,7 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)<br>
 🔗 GitHub: [Campaign_Knowledge_Graph](https://github.com/DanielLevenstein/Campaign_Knowledge_Graph)<br>
+
 **Overview:**
 My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates graphical character connection graphs for the characters and places within the campaign.
 
@@ -46,7 +47,7 @@ The app features a UI for adding session notes for your campaign which can be wr
 
 🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
 🔗 GitHub: [DaielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
-🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)
+🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)<br>
 
 **Overview:** Developed an AI-powered study application for AWS certification practice. The app presents freeform AWS exam-style questions, evaluates learner answers with a trained local classifier, and returns structured coaching feedback with score, missing concepts, detailed answer guidance, and original multiple-choice provenance.
 
