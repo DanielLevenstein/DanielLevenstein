@@ -23,7 +23,9 @@ Software engineer with 6+ years of experience working in AWS environments and da
 ![Featured_Projects](charts/Featured_Projects.png)
 *Figure: Shows an image of my AWS Rag and AWS Certification coach project side by side.*
 
-## Detailed Information:
+### Details Info:
+
+---
 
 🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)<br>
 🔗 GitHub: [Campaign_Notes Manager](https://github.com/DanielLevenstein/Campaign_Knowledge_Graph)<br>
