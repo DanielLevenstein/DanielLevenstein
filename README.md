@@ -69,7 +69,7 @@ The app features a UI for adding session notes for your campaign which can be wr
 
 ### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
 
-🔗 [GitHub: Aws-Documentation-Rag](https://github.com/DanielLevenstein/aws-documentation-rag)
+🔗 [GitHub: AWS-Documentation-Rag](https://github.com/DanielLevenstein/aws-documentation-rag)
 
 **Overview:**
 Developed a retrieval-augmented generation (RAG) application for querying AWS documentation. Built a pipeline for crawling AWS documentation pages, preprocessing and storing data in a vector database, and generating technical responses using a language model through a Streamlit interface.
