@@ -7,8 +7,16 @@ Software engineer with 6+ years of experience working in AWS environments and da
 
 ## Professional Work:
 
-- Developed Java/Scala scripts to migrate and normalize legacy financial records into updated schema formats for downstream validation workflows. (FINRA)
-- Built a Lambda-based system to track application uptime and system health signals. (b.well)
+- Built Java and Scala Spark pipelines for large-scale financial data ingestion using Kafka workflows across AWS. (Finra)
+- Developed distributed frameworks to validate AWS Step Functions workflows spanning multiple microservices. (Finra)
+- Developed AWS Lambda monitoring services to detect healthcare pipeline failures in near real time, surfacing issues before downstream impact. (b.well Connected Health)
+
+## Technical Skills
+
+- **Languages:** Python, Java, Scala
+- **Application development:** Streamlit, Docker, automated testing, JSON data workflows
+- **Data and AI:** ETL pipelines, vector search, local language models, TensorFlow, Keras, OpenCV
+- **Cloud:** AWS environments
 
 ## Certifications:
 
@@ -23,17 +31,14 @@ Software engineer with 6+ years of experience working in AWS environments and da
 ![Featured_Projects](charts/Featured_Projects.png)
 *Figure: Shows an image of my AWS Rag and AWS Certification coach project side by side.*
 
-### Details Info:
+### 🎲 Campaign Knowledge Graph
 
----
+🔗 GitHub: [DanielLevenstein/AWS-Certification-Coach]()
 
-🎲 Campaign Knowledge Graph (LangChain, GraphViz, Streamlit)<br>
-🔗 GitHub: [Campaign_Notes Manager](https://github.com/DanielLevenstein/Campaign_Knowledge_Graph)<br>
+**Languages:** Python
 
 **Overview:**
-My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates graphical character connection graphs for the characters and places within the campaign.
-
-The app features a UI for adding session notes for your campaign which can be written withing the app or imported from txt or markdown files.
+My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates character connection graphs and a UI for adding session notes for your campaign which can be written within the app or imported from txt or markdown files.
 
 **Key Features:**
 
@@ -41,15 +46,19 @@ The app features a UI for adding session notes for your campaign which can be wr
 - Import session notes from external data sources extracting heading and date information.
 - Generate a knowledge graph from multiple data import sources and display information to users in clean readable format.
 
-**Tools & Technologies: Python, Streamlit, LangGraph, GraphViz, Machine Learning**
+**Tools & Technologies:** Streamlit, LangChain, LangGraph, GraphViz, Machine Learning
+
 ![Character_View](charts/Party_View.png)
 *Figure: Displays generated knowledge graph of main character in test campaign.*
 
 ---
 
-🎓 AWS Certification Coach (ML Evaluation, Streamlit, Docker)<br>
-🔗 GitHub: [DaielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
-🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)<br>
+### 🎓 AWS Certification Coach
+
+🔗 GitHub: [DanielLevenstein/AWS-Certification-Coach](https://github.com/DanielLevenstein/AWS-Certification-Coach)<br>
+🔗 Live Demo: [aws-certification-coach-onrender](https://aws-certification-coach-latest.onrender.com/)
+
+**Languages:** Python
 
 **Overview:** Developed an AI-powered study application for AWS certification practice. The app presents freeform AWS exam-style questions, evaluates learner answers with a trained local classifier, and returns structured coaching feedback with score, missing concepts, detailed answer guidance, and original multiple-choice provenance.
 
@@ -63,13 +72,15 @@ The app features a UI for adding session notes for your campaign which can be wr
 - Added validation tests for classifier behavior, low-credit answer rejection, memory overhead, generated artifacts, and model performance.
 - Containerized the application with Docker for local deployment and Render-ready hosting.
 
-**Tools & Technologies:** Python, Streamlit, Docker, Machine Learning, Classification Models, Regression Models, JSON Data Pipelines, Automated Testing, AWS Certification Content
+**Tools & Technologies:** Streamlit, Docker, Machine Learning, ML Evaluation, Classification Models, Regression Models, JSON Data Pipelines, Automated Testing, AWS Certification Content
 
 ---
 
-### 🎺 AWS Documentation RAG System (LLM, Vector Search, ETL Pipeline)
+### 🎺 AWS Documentation RAG System
 
 🔗 [GitHub: AWS-Documentation-Rag](https://github.com/DanielLevenstein/aws-documentation-rag)
+
+**Languages:** Python
 
 **Overview:**
 Developed a retrieval-augmented generation (RAG) application for querying AWS documentation. Built a pipeline for crawling AWS documentation pages, preprocessing and storing data in a vector database, and generating technical responses using a language model through a Streamlit interface.
@@ -83,32 +94,36 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 - Built a Streamlit frontend for interactive querying and response generation.
 - Containerized the application using Docker for local deployment and testing.
 
-Tools & Technologies: Python, Streamlit, Docker, Vector Databases, LLMs, Web Scraping, ETL Pipelines
+**Tools & Technologies:** Streamlit, Docker, Vector Databases, Vector Search, LLMs, Web Scraping, ETL Pipelines
 
 ---
 
-### 🪖 Helmet Classification Pipeline (CNN, Training Data Curation)
+### 🪖 Helmet Classification Pipeline
 
 🔗 [Interactive Streamlit App](https://huggingface.co/spaces/DanielLevenstein/Helmet_CNN_Data_Quality_Case_Study)<br>
 🔗 [Helmet CNN Training Notebooks](https://github.com/DanielLevenstein/Helmet_CNN_Model_Training_Notebooks)
 
+**Languages:** Python
+
 **Overview:**
 Developed an image classification pipeline for helmet detection using a CNN trained on standardized 100x100 image inputs. Build a data curation workflow to transform raw annotation images into standardized size and remove samples with too low a resolution to be useful.
 
-**Key Feature:**
+**Key Features:**
 
 - Built four CNN-based image classification models using four different training datasets.
 - Evaluated models based on a holdout dataset consisted of equal numbers of samples from Dataset2, and Dataset3.
-- Improved accuracy of a classification model from 77% to 94%, and calculated precision, recal, and f1 metrics for each model.
+- Improved accuracy of a classification model from 77% to 94%, and calculated precision, recall, and f1 metrics for each model.
 - Identified categories of images model struggles with for further fine-tuning.
 
-Tools & Technologies: TensorFlow, Keras, OpenCV, Streamlit, HuggingFace
+**Tools & Technologies:** TensorFlow, Keras, OpenCV, Streamlit, HuggingFace, CNN, Training Data Curation
 
 ---
 
 ### 🍕 FoodHub – Delivery Data Analysis
 
 🔗 [GitHub: FoodHub Data Analysis](https://github.com/DanielLevenstein/FoodHub_UT_ML_Project1)
+
+**Languages:** Python
 
 **Overview:**
 Developed discount program for a food delivery app, which reaches up to 12% of the population under model conditions.
@@ -118,6 +133,8 @@ Developed discount program for a food delivery app, which reaches up to 12% of t
 - Cleaned dataset and imputed missing ratings.
 - Identified top-rated restaurants by cuisine.
 - Calculated discount cost vs. total customer reach.
+
+**Tools & Technologies:** Data Visualization, Scikit Learn
 
 ![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
 
@@ -129,6 +146,8 @@ Developed discount program for a food delivery app, which reaches up to 12% of t
 
 🔗 [Kaggle: Stress vs Physical Activity Correlation](https://www.kaggle.com/code/daniellevenstein/stress-vs-physical-activity-correlation)
 
+**Languages:** Python
+
 **Overview:**
 Analyzed relationships between stress levels and physical activity using real-world survey data.
 
@@ -138,6 +157,8 @@ Analyzed relationships between stress levels and physical activity using real-wo
 - Generated three population clusters using K-Means
 - Identified occupation-based stress correlations
 - Visualized cluster separation and activity distribution
+
+**Tools & Technologies:** Data Visualization, Scikit Learn
 
 ![Clustering Overview](charts/Stress_Level_by_Cluster_Side_by_Side.png)
 
