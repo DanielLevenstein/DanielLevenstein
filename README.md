@@ -1,24 +1,28 @@
 # Data Engineer & Cloud Developer
 
-Software engineer with 6+ years of experience working in AWS environments and data systems. Recently focused on machine learning and data analysis projects, including clustering, and business analytics.
+Software engineer with 6+ years of experience working in AWS environments and data systems. Built financial data pipelines, distributed validation frameworks, and serverless monitoring services, with recent projects in machine learning and language model applications.
 
 🔗 [Deployed Models](https://huggingface.co/DanielLevenstein)
 🔗 [Kaggle Notebooks](https://www.kaggle.com/daniellevenstein)
 
-## Professional Work:
+## Career Highlights:
 
-- Built Java and Scala Spark pipelines for large-scale financial data ingestion using Kafka workflows across AWS. (Finra)
-- Developed distributed frameworks to validate AWS Step Functions workflows spanning multiple microservices. (Finra)
+- Built Java and Scala Spark pipelines for large-scale financial data ingestion using Kafka workflows across AWS. (FINRA)
+- Developed distributed frameworks to validate AWS Step Functions workflows spanning multiple microservices. (FINRA)
 - Developed AWS Lambda monitoring services to detect healthcare pipeline failures in near real time, surfacing issues before downstream impact. (b.well Connected Health)
 
-## Technical Skills
+### Technical Skills
 
 - **Languages:** Python, Java, Scala
-- **Application development:** Streamlit, Docker, automated testing, JSON data workflows
+- **Application development:** Streamlit, Docker, AWS Lambda, JSON data workflows
 - **Data and AI:** ETL pipelines, vector search, local language models, TensorFlow, Keras, OpenCV
-- **Cloud:** AWS environments
 
-## Certifications:
+### Deployed Projects:
+
+- [TicTacTaire](https://tictactaire.onrender.com/): Delivered a custom solitaire web application for a local game designer, deployed on Render.
+- [AWS Certification Coach](https://aws-certification-coach-latest.onrender.com/): Built and deployed an application that evaluates freeform answers to AWS certification practice questions.
+
+### Certifications:
 
 - Certified AWS Cloud Practitioner (AWS, 2025)
 - Post-Graduate Certificate in Artificial Intelligence & Machine Learning (UT, 2026)
@@ -26,19 +30,17 @@ Software engineer with 6+ years of experience working in AWS environments and da
 ## Featured Projects:
 
 ![Character_Rewrite](charts/Character_Rewrite.png)
-*Figure: Shows the original backstory of a character with a cleaned-up version.*
 
-![Featured_Projects](charts/Featured_Projects.png)
-*Figure: Shows an image of my AWS Rag and AWS Certification coach project side by side.*
+*Figure: Shows the original backstory of a character with a cleaned-up version.*
 
 ### 🎲 Campaign Knowledge Graph
 
-🔗 GitHub: [DanielLevenstein/AWS-Certification-Coach]()
+🔗 GitHub: [DanielLevenstein/Campaign_Notes_Manager](https://github.com/DanielLevenstein/Campaign_Notes_Manager)
 
 **Languages:** Python
 
 **Overview:**
-My Character Lore creation app allows you to generate backstories for characters in a RP campaign and generates character connection graphs and a UI for adding session notes for your campaign which can be written within the app or imported from txt or markdown files.
+Built an application for managing tabletop campaign characters and session notes. It imports text and Markdown files, visualizes character relationships, and uses a local language model to refine backstories.
 
 **Key Features:**
 
@@ -46,9 +48,10 @@ My Character Lore creation app allows you to generate backstories for characters
 - Import session notes from external data sources extracting heading and date information.
 - Generate a knowledge graph from multiple data import sources and display information to users in clean readable format.
 
-**Tools & Technologies:** Streamlit, LangChain, LangGraph, GraphViz, Machine Learning
+**Tools & Technologies:** Streamlit, LangChain, LangGraph, Graphviz, Machine Learning
 
 ![Character_View](charts/Party_View.png)
+
 *Figure: Displays generated knowledge graph of main character in test campaign.*
 
 ---
@@ -96,6 +99,9 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 
 **Tools & Technologies:** Streamlit, Docker, Vector Databases, Vector Search, LLMs, Web Scraping, ETL Pipelines
 
+![Featured_Projects](charts/Featured_Projects.png)
+*Figure: AWS Documentation RAG and AWS Certification Coach interfaces, side by side.*
+
 ---
 
 ### 🪖 Helmet Classification Pipeline
@@ -106,16 +112,16 @@ Developed a retrieval-augmented generation (RAG) application for querying AWS do
 **Languages:** Python
 
 **Overview:**
-Developed an image classification pipeline for helmet detection using a CNN trained on standardized 100x100 image inputs. Build a data curation workflow to transform raw annotation images into standardized size and remove samples with too low a resolution to be useful.
+Developed an image classification pipeline for helmet detection using a CNN trained on standardized 100x100 image inputs. Built a data curation workflow to transform raw annotation images into standardized size and remove samples with too low a resolution to be useful.
 
 **Key Features:**
 
 - Built four CNN-based image classification models using four different training datasets.
 - Evaluated models based on a holdout dataset consisted of equal numbers of samples from Dataset2, and Dataset3.
-- Improved accuracy of a classification model from 77% to 94%, and calculated precision, recall, and f1 metrics for each model.
+- Improved accuracy of a classification model from 77% to 94%, and calculated precision, recall, and F1 metrics for each model.
 - Identified categories of images model struggles with for further fine-tuning.
 
-**Tools & Technologies:** TensorFlow, Keras, OpenCV, Streamlit, HuggingFace, CNN, Training Data Curation
+**Tools & Technologies:** TensorFlow, Keras, OpenCV, Streamlit, Hugging Face, CNN, Training Data Curation
 
 ---
 
@@ -134,7 +140,7 @@ Developed discount program for a food delivery app, which reaches up to 12% of t
 - Identified top-rated restaurants by cuisine.
 - Calculated discount cost vs. total customer reach.
 
-**Tools & Technologies:** Data Visualization, Scikit Learn
+**Tools & Technologies:** Data Visualization, scikit-learn
 
 ![Discount Cost vs Population Reach](charts/Discount_Cost_vs_Total_Reach.png)
 
@@ -158,11 +164,32 @@ Analyzed relationships between stress levels and physical activity using real-wo
 - Identified occupation-based stress correlations
 - Visualized cluster separation and activity distribution
 
-**Tools & Technologies:** Data Visualization, Scikit Learn
+**Tools & Technologies:** Data Visualization, scikit-learn
 
 ![Clustering Overview](charts/Stress_Level_by_Cluster_Side_by_Side.png)
 
 *Figure: K-means clustering reveals distinct population-level groups based on total activity and stress.*
+
+---
+
+### ⚫ Reversi Game Engine
+
+🔗 [GitHub: Reversi Game Engine](https://github.com/DanielLevenstein/reversi-game-engine)<br>
+🔗 [GitHub: Reversi Frontend](https://github.com/DanielLevenstein/reversi-front-end)
+
+**Languages:** Scala, JavaScript
+
+**Overview:**
+Developed a Reversi (Othello) game engine in Scala with a REST API and a Minimax AI opponent. The backend is paired with an AI-generated JavaScript frontend. The project is ready for deployment but is not publicly hosted.
+
+**Key Features:**
+
+- Implemented Reversi game logic and move validation.
+- Built a Minimax AI with alpha-beta pruning, customizable heuristics, and evaluation caching.
+- Exposed REST endpoints for creating games, retrieving board state and valid moves, and applying human or AI moves.
+- Provided Docker-based backend setup and a separate Vite frontend for local play.
+
+**Tools & Technologies:** Play Framework, SBT, REST APIs, Docker, Node.js, Vite, Minimax, Alpha-Beta Pruning
 
 ## 📫 Contact
 
